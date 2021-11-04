@@ -11,6 +11,7 @@
       </div>
     </div>
     <Conent />
+    <Hello />
   </div>
 </template>
 
@@ -19,13 +20,15 @@ import Header from '@/components/header.vue'
 import Head from '@/components/head.vue'
 import Lunbo from '@/components/lunbo.vue'
 import Conent from '@/components/conent.vue'
+import Hello from "@/views/Hello/index.vue"
 export default {
   name: 'Home',
   components: {
     Header,
     Head,
     Lunbo,
-    Conent
+    Conent,
+    Hello
   }
 }
 
