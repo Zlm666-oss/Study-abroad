@@ -11,6 +11,7 @@
       </div>
     </div>
     <Conent />
+    <Chind/>
     <Hello />
     <Four />
   </div>
@@ -20,6 +21,7 @@
 import Header from "@/components/header.vue";
 import Head from "@/components/head.vue";
 import Lunbo from "@/components/lunbo.vue";
+import Chind from "@/views/chind/chind.vue";
 import Conent from "@/components/conent.vue";
 import Hello from "@/views/Hello/index.vue";
 import Four from "@/views/four/four.vue";
@@ -32,6 +34,7 @@ export default {
     Conent,
     Hello,
     Four,
+    Chind,
   },
 };
 </script>
