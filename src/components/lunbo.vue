@@ -24,9 +24,6 @@
     </div>
 </template>
 <style lang="scss">
-    // .swiper-slide{
-    //     width: 100%;
-    //     height: 1.1rem;
     .main{
         width: 100%;
         height: 1.1rem;
@@ -35,7 +32,6 @@
             height: 100%;
         }
     }
-    // }
 </style>
 <script>
 import Swiper from 'swiper';

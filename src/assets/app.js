@@ -1,4 +1,5 @@
 (function(win) {
+
         var docEl = win.document.documentElement;
         var time;
         function refreshRem() {

@@ -28,6 +28,7 @@ export default {
     Conent
   }
 }
+
 </script>
 <style lang="scss">
   .home{

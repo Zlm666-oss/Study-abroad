@@ -14,7 +14,6 @@
             margin: 0 auto;
             font-size: 12px;
             color: #838c94;
-
         }
     }
 </style>
